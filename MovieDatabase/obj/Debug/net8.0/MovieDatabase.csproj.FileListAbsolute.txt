@@ -1,0 +1,14 @@
+C:\Users\miwol\source\repos\MovieDatabase\MovieDatabase\bin\Debug\net8.0\MovieDatabase.exe
+C:\Users\miwol\source\repos\MovieDatabase\MovieDatabase\bin\Debug\net8.0\MovieDatabase.deps.json
+C:\Users\miwol\source\repos\MovieDatabase\MovieDatabase\bin\Debug\net8.0\MovieDatabase.runtimeconfig.json
+C:\Users\miwol\source\repos\MovieDatabase\MovieDatabase\bin\Debug\net8.0\MovieDatabase.dll
+C:\Users\miwol\source\repos\MovieDatabase\MovieDatabase\bin\Debug\net8.0\MovieDatabase.pdb
+C:\Users\miwol\source\repos\MovieDatabase\MovieDatabase\obj\Debug\net8.0\MovieDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miwol\source\repos\MovieDatabase\MovieDatabase\obj\Debug\net8.0\MovieDatabase.AssemblyInfoInputs.cache
+C:\Users\miwol\source\repos\MovieDatabase\MovieDatabase\obj\Debug\net8.0\MovieDatabase.AssemblyInfo.cs
+C:\Users\miwol\source\repos\MovieDatabase\MovieDatabase\obj\Debug\net8.0\MovieDatabase.csproj.CoreCompileInputs.cache
+C:\Users\miwol\source\repos\MovieDatabase\MovieDatabase\obj\Debug\net8.0\MovieDatabase.dll
+C:\Users\miwol\source\repos\MovieDatabase\MovieDatabase\obj\Debug\net8.0\refint\MovieDatabase.dll
+C:\Users\miwol\source\repos\MovieDatabase\MovieDatabase\obj\Debug\net8.0\MovieDatabase.pdb
+C:\Users\miwol\source\repos\MovieDatabase\MovieDatabase\obj\Debug\net8.0\MovieDatabase.genruntimeconfig.cache
+C:\Users\miwol\source\repos\MovieDatabase\MovieDatabase\obj\Debug\net8.0\ref\MovieDatabase.dll
